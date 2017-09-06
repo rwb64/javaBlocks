@@ -1,3 +1,12 @@
+When developing new spatial planning algorithms for robotic systems that will collaborate with people to complete a task (e.g., moving objects around a room), 
+it is important to know how the robot’s spatial movement-based decisions converges or diverges from the human team member’s movement-based decisions. For this 
+online simulation-based study, we are only looking at the human decision-making processes involved with moving virtual blocks. Participants will complete a 
+simulation by moving a human avatar around a 14 x 14 grid to push blocks from set start locations to set end locations. The entire study should only take 20 
+minutes to complete. Path mapping analyses will be conducted to determine if there is one or multiple “human” way(s) of completing the task.
+
+You can download the entire code base and import it to eclipse and build/run from there or follow the directions below to create the jar file and then use the 
+html file to access the applet.
+
 I am including the entire eclipse file so if you have Eclipse you can add this project to it and run the applet directly from there.
 Otherwise you have to build the jar file and run the html file.
 
